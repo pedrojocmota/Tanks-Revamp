@@ -89,6 +89,6 @@ crashlytics-build.properties
 /[Aa]ssets/_Tanks/[Aa]rt
 /[Aa]ssets/_Tanks/[Aa]udio
 /[Aa]ssets/_Tanks/[Pp]refabs
-/[Aa]ssets/_Tanks/[Ss]cripts
+#/[Aa]ssets/_Tanks/[Ss]cripts
 /[Aa]ssets/_Tanks/[Ss]ettings
 /[Aa]ssets/_Tanks/[Tt]utorial_Demo
