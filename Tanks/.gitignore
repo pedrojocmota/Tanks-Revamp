@@ -83,3 +83,12 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# Templates
+
+/[Aa]ssets/_Tanks/[Aa]rt
+/[Aa]ssets/_Tanks/[Aa]udio
+/[Aa]ssets/_Tanks/[Pp]refabs
+/[Aa]ssets/_Tanks/[Ss]cripts
+/[Aa]ssets/_Tanks/[Ss]ettings
+/[Aa]ssets/_Tanks/[Tt]utorial_Demo
